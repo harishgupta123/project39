@@ -1,2 +1,2 @@
-# project39
-very good project proud to be an whitehatjr student
+# C37-CAMERA.x
+Modified Trex Game to use camera.x as trex.x
